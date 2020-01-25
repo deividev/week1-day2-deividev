@@ -1,0 +1,31 @@
+
+.head {
+    height: 23.875rem;
+    background-color: #efefef;
+    padding-left: 94px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    
+}
+.head__title {
+    font-size: 62px;
+    padding-top: 61px;
+    color:  #4a4a4a;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.head__paragrap {  
+    min-width: 52.063rem;
+    min-height: 3.563rem;
+    font-size: 18px;
+    font-weight: 300;
+    margin-bottom: 12px;
+}
+.head__btn {
+    display: inline-block;
+    min-width: 12.063rem;
+    min-height: 3.563rem;
+    border-radius: 8px;
+    font-size: 20px;
+    text-align: left;
+    color: white;
+    background-color: #7ed321;
+}

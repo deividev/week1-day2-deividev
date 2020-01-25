@@ -1,0 +1,30 @@
+.services {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+.services__title {
+    font-size: 34px;
+    margin-top: 83px;
+    color: #4a4a4a;
+}
+
+.services__paragrap {
+   /*min-width: 65rem;
+   min-height: 5.938rem;*/
+   margin-left: 199px;
+   margin-right: 201px;
+   margin-top: 26px;
+   margin-bottom: 26px;
+   color: #333;
+}
+
+.services__btn {
+    width: 11.063rem;
+    height: 2.5rem;
+    background-color: #4a90e2;
+    margin-left: 631px;
+    margin-right: 632;
+    border-radius: 8px;
+    border: 1px solid 979797    
+}

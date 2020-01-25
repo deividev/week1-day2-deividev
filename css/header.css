@@ -1,0 +1,40 @@
+.header {
+    background-color: #4a4a4a;
+    max-height: 3.5rem;
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.header__menu {
+    display: flex;
+    margin-left: 28px;
+}
+.header__menu-btn {
+    margin: 17px;
+}
+.header__form {
+    margin-top: 10px;
+}
+
+.header__form-label {
+    color:#ccc;
+    margin-right: 53px;
+    margin-bottom: 17px;
+}
+.header__form-input {
+    width: 12.688rem;
+    height: 2.313rem;
+    border-radius: 4px;
+    background-color: #fff;
+}
+.header__form-btn {
+    width: 4.938rem;
+    height: 2.313rem;
+    border-radius: 4px;
+    margin-right: 14px;
+    margin-bottom: 10px;
+    border: #979797;
+    color: #4a4a4a;
+    background-color: #ffe55d;
+}

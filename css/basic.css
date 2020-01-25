@@ -1,0 +1,38 @@
+body {
+    min-width: 90rem;
+    font-family: 'Roboto', sans-serif;
+    
+    line-height: 1.7;
+    font-size: 1rem;
+    
+}
+
+a  {
+    text-decoration: none;
+    color: white;
+}
+
+
+h1, h2, h3 ,h4 ,h5 ,h6 {
+    font-family: 'Roboto', sans-serif;
+    
+}
+
+h1 {
+    
+    font-size: 3.875;
+    line-height: 1.1;
+}
+
+h2 {
+    color: black;
+    font-size: 1.625rem;
+    line-height: 1.1;
+}
+
+h3 {
+    margin-bottom: 0.625rem;
+    font-size: 1.625rem;
+    line-height: 1.1;
+}
+

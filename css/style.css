@@ -1,0 +1,15 @@
+/*  FONTS*/
+/*  ------*/
+@import url('https://fonts.googleapis.com/css?family=Roboto:700&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Quattrocento|Roboto:700,900&display=swap');
+
+
+@import "reset.css";
+@import "basic.css";
+
+
+@import "header.css";
+@import "head.css";
+@import "courses.css";
+@import "calls.css";
+@import "services.css";
